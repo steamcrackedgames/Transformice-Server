@@ -3,7 +3,7 @@ from utils import logging
 from server.tcp.TCPSocket import *
 from server.managers.TCPClientManager import *
 
-__author__ = "b3ckerdev"
+__author__ = ""
 __license__ = "MIT License"
 
 class WorldOfMice:
